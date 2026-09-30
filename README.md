@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelvrihi24-collab/Thrive/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -45,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patelvrihi24-collab/Thrive/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
