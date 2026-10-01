@@ -8,11 +8,11 @@ class Solution {
             if(ch == '(' || ch == '{' || ch == '['){
                 stack.push(ch);
             }else{
-            if(stack.isEmpty()) return false;
+            if(stack.isEmpty()) return false; //if no opening brace just return false
             if((ch == ')' && stack.peek() == '(') || (ch == '}' && stack.peek() == '{') ||(ch == ']' && stack.peek() == '[')){
                 stack.pop();
             }else{
-                return false;
+                return false; //mismatched parentheses
             }
             }
            
