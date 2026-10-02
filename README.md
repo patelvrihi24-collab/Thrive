@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patelvrihi24-collab/Thrive/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -55,10 +57,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patelvrihi24-collab/Thrive/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelvrihi24-collab/Thrive/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/patelvrihi24-collab/Thrive/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
