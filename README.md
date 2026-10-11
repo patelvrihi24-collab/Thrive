@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelvrihi24-collab/Thrive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelvrihi24-collab/Thrive/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3525-find-x-value-of-array-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelvrihi24-collab/Thrive/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/patelvrihi24-collab/Thrive/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/patelvrihi24-collab/Thrive/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelvrihi24-collab/Thrive/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
