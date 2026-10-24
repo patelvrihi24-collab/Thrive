@@ -12,11 +12,13 @@ class Solution {
         
         int arrive = Math.max(aliceArrivingday, bobArrivingday);
         int leave = Math.min(aliceLeavingday, bobleavingday);
-        if(arrive <= leave){
+        /**if(arrive <= leave){
             return leave - arrive + 1;
         }else{
             return 0;
         }
+        */
+        return Math.max(0, leave - arrive + 1);
     }
     public static void main(String[] args){
         Solution sc = new Solution();
