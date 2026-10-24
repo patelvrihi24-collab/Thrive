@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/patelvrihi24-collab/Thrive/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelvrihi24-collab/Thrive/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patelvrihi24-collab/Thrive/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/patelvrihi24-collab/Thrive/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/patelvrihi24-collab/Thrive/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
