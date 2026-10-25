@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/patelvrihi24-collab/Thrive/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelvrihi24-collab/Thrive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/patelvrihi24-collab/Thrive/tree/master/1254-number-of-closed-islands) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/patelvrihi24-collab/Thrive/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/patelvrihi24-collab/Thrive/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/3525-find-x-value-of-array-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/patelvrihi24-collab/Thrive/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/patelvrihi24-collab/Thrive/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/patelvrihi24-collab/Thrive/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/patelvrihi24-collab/Thrive/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/patelvrihi24-collab/Thrive/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/patelvrihi24-collab/Thrive/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
